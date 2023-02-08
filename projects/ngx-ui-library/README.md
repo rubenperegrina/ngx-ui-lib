@@ -8,7 +8,7 @@ ngx-ui-lib is a UI library for Angular that provides highly customisable and eas
 [https://ngx-ui-lib.vercel.app](https://ngx-ui-lib.app)
 
 
-![](https://github.com/rubenperegrina/ngx-ui-lib/public/images/ngx-ui-lib-gif.gif)
+![](https://github.com/rubenperegrina/ngx-ui-lib/blob/e16e8a24a27f79f9121e9bb472b4cd56f6cd4306/public/images/ngx-ui-lib-gif.gif)
 
 
 # Installation 💻
